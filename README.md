@@ -1,11 +1,10 @@
 
 
 
-### 👨‍💻 Hi there 👋
+# 👨‍💻 Hi there!! 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="500"/>
-  
 </div>
 
 
@@ -15,7 +14,13 @@
 Here are some ideas to get you started:
 -->
 
-### I'm on a journey to explore the world of data science
-- I love how data science allows me to dig deep into data and reveal valuable insights.
-- I'm particularly excited about the magic of machine learning, where computers can learn from data to improve predictions and decision-making.
-- I'm eager to dive into the world of data science and machine learning research, where I can contribute to new discoveries and innovations.
+## I'm on a journey to explore the world of data science...  
+
+🤵 Pursuing master's in data science at the University of Arizona ⏱️  
+
+💻 Passionate about implementing machine learning techniques to uncover insights from data 👨‍🔬  
+
+🐍 Python and R are my weapons for the data science battlefield 🥊  
+
+😃 I love to play around with cool data visualization stuff too! 🎨
+
