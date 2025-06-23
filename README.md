@@ -1,10 +1,10 @@
 
 
 
-# 👨‍💻 Hi there!! 👋
+# 👨‍💻 🧬 Hi there!! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="500"/>
+  <img src="img_Bioinformatics_Synergy_Unveiled.gif" width="700"/>
 </div>
 
 
