@@ -14,13 +14,16 @@
 Here are some ideas to get you started:
 -->
 
-## I'm on a journey to explore the world of data science...  
+## I'm on a journey to explore the world of Data Science and Bioinformatics...  
 
-🤵 Pursuing master's in data science at the University of Arizona ⏱️  
 
-💻 Passionate about implementing machine learning techniques to uncover insights from data 👨‍🔬  
 
-🐍 Python and R are my weapons for the data science battlefield 🥊  
+💉 Probing into research in -  
+  * Computational Genomics 
+  * Machine Learning for Biological Applications
+
+
+🐍 Python and R are my weapons for the data science battlefield 🥊 
 
 😃 I love to play around with cool data visualization stuff too! 🎨
 
