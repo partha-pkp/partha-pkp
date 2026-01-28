@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 💉 Probing into research in -  
-  * Computational Genomics 
-  * Machine Learning for Biological Applications
+  * Structural Bioinformatics 
+  * AI-driven drug design & discovery
 
 
 🐍 Python and R are my weapons for the data science battlefield 🥊 
