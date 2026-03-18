@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💉 Probing into research in -  
   * AI-driven gerotherapeutic drug design & discovery
-  * \Structural Bioinformatics 
+  * Structural Bioinformatics 
 
 
 🐍 Python and R are my weapons for the data science battlefield 🥊 
