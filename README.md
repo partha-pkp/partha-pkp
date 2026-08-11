@@ -2,7 +2,6 @@
 
 
 # 👨‍💻 🧬 Hi there!! 👋
-![](https://komarev.com/ghpvc/?username=partha-pkp)
 
 
 ## I'm on a journey to explore the world of Aging Biology and Bioinformatics...  
