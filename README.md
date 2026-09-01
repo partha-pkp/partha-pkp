@@ -4,7 +4,7 @@
 # 👨‍💻 🧬 Hi there!! 👋
 
 
-## I'm on a journey to explore the world of Aging Biology and Bioinformatics...  
+## I'm on a journey to explore the world of Bioinformatics...  
 
 <div id="header" align="center">
   <img src="img_Bioinformatics_Synergy_Unveiled.gif" width="700"/>
